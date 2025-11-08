@@ -1,7 +1,6 @@
 export function CountdownSEO() {
   return (
     <>
-      <title>GTA 6 Countdown Timer - Time Remaining Until Release</title>
       <meta
         name='description'
         content='Live countdown timer showing exactly how much time remains until GTA 6 (Grand Theft Auto VI) release date. Track years, months, days, hours, minutes and seconds.'
