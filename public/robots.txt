@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /embed?*
+
+Sitemap: https://remainingtimeforgta6.sarudev.com.ar/sitemap.xml
